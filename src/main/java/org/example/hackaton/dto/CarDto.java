@@ -11,5 +11,5 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class CarDto {
     private String name;
-    private String carsize;
+    private String carSize;
 }
